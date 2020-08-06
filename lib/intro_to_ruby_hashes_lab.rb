@@ -7,7 +7,7 @@ personal_info={first_name:"Steve"}
 end
 
 def pioneer
- pioneer={:name=>"Grace Hopper"
+ pioneer={:name=>"Grace Hopper"}
 end
 
 
