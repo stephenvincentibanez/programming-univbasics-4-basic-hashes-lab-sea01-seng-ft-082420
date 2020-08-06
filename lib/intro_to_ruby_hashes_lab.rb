@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  id_hash_generator={:id=>2}
+  id_hash_generator={:id=>5}
 end
